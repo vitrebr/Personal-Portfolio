@@ -25,22 +25,22 @@ export default {
         return {
             projects: [
                 {
-            <!--    title: 'LPPM Universitas Budi Darma Medan',
-                    link: 'https://lppm.univ-bd.ac.id',
-                    description: 'Ini adalah project pertama yang saya kerjakan bersama tim, yang dimana project menggunakan framework laravel dan pada awal pengerjaan  hanya menggunakan CSS native untuk UI/UX nya kemudian menggunakan framework bootstrap dan disini saya mengambil peran sebagai frontend developer.', -->
+                    //title: 'LPPM Universitas Budi Darma Medan',
+                    //link: 'https://lppm.univ-bd.ac.id',
+                    //description: 'Ini adalah project pertama yang saya kerjakan bersama tim, yang dimana project menggunakan framework laravel dan pada awal pengerjaan  hanya menggunakan CSS native untuk UI/UX nya kemudian menggunakan framework bootstrap dan disini saya mengambil peran sebagai frontend developer.', -->
 
                     title: 'Masih belum ada ya'
                 },
-                <!-- {
-                    title: 'International Association of Economics and Bussiness',
-                    link: 'https://iaeb-international.org',
-                    description: 'Project dibangun menggunakan framework laravel dan framework talwindcss setelah diupgrade dari bootstrap, yang dimana pengerjaannya dilakukan dengan tim yang berjumlah kan 2 orang. Disini kami sudah membagi peran masing-masing yaitu saya mengambil bangian frontend developer dan teman saya mengambil bagian menjadi backend developer.',
-                },
-                {
-                    title: 'Virtual Invitation',
-                    link: 'https://virtualinvitation.org',
-                    description: 'Project ini dibangun menggunakan framework laravel dan framework tailwindcss, dimana project ini dibangun dengan tim yang berjumlah kan 3 orang. Disini kami mempunyai bangian nya masing-masing dan saya berperan sebagai frontend developer pada project ini. ',
-                }, -->
+                //{
+                //    title: 'International Association of Economics and Bussiness',
+                //    link: 'https://iaeb-international.org',
+                //    description: 'Project dibangun menggunakan framework laravel dan framework talwindcss setelah diupgrade dari bootstrap, yang dimana pengerjaannya dilakukan dengan tim yang berjumlah kan 2 orang. Disini kami sudah membagi peran masing-masing yaitu saya mengambil bangian frontend developer dan teman saya mengambil bagian menjadi backend developer.',
+                //},
+                //{
+                //    title: 'Virtual Invitation',
+                //    link: 'https://virtualinvitation.org',
+                //    description: 'Project ini dibangun menggunakan framework laravel dan framework tailwindcss, dimana project ini dibangun dengan tim yang berjumlah kan 3 orang. Disini kami mempunyai bangian nya masing-masing dan saya berperan sebagai frontend developer pada project ini. ',
+                //},
             ],
         }
     },
