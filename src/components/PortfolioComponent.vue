@@ -29,9 +29,9 @@ export default {
             img: Image,
             icons: [
                 { title: 'Whatsapp', link: 'https://api.whatsapp.com/send/?phone=%2B6282216632964&text&type=phone_number&app_absent=0', i: 'mdi mdi-whatsapp' },
-                { title: 'Facebook', link: 'https://www.facebook.com/moch.kaza.desky', i: 'mdi mdi-facebook' },
-                { title: 'Instagram', link: 'https://www.instagram.com/kaza_desky/', i: 'mdi mdi-instagram' },
-                { title: 'Github', link: 'https://github.com/kazadesky', i: 'mdi mdi-github' },
+                { title: 'Facebook', link: 'https://www.facebook.com/nivlek.start', i: 'mdi mdi-facebook' },
+                { title: 'Instagram', link: 'https://www.instagram.com/vitrebr/', i: 'mdi mdi-instagram' },
+                { title: 'Github', link: 'https://github.com/vitrebr', i: 'mdi mdi-github' },
             ]
         }
     }
